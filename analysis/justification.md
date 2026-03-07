@@ -8,8 +8,6 @@ and saved to `analysis/plots/`.
 
 ## 1. Data Cleaning
 
-### What was removed and why
-
 The 20 Newsgroups dataset contains raw internet posts from the 1990s. Each post
 includes metadata headers (`From:`, `Subject:`, `Organization:`, `Lines:`) that
 are not part of the document's content. Retaining these causes the embedding
@@ -50,7 +48,7 @@ replies, or header-only artifacts. Such documents cannot produce meaningful
 | `all-mpnet-base-v2` | 768-dim, 5x slower, marginal quality gain                         |
 | TF-IDF              | Keyword frequency — cannot recognise paraphrases                  |
 
-**Why `all-MiniLM-L6-v2`:**
+**Choice justification for `all-MiniLM-L6-v2`:**
 
 - Produces one 384-dim vector per document directly
 - Fine-tuned on 1B+ sentence pairs for semantic similarity
@@ -73,13 +71,7 @@ so cosine similarity reduces to a dot product — faster to compute at scale.
 
 ### Choice: ChromaDB
 
-| Option              | Why not chosen                              |
-| ------------------- | ------------------------------------------- |
-| FAISS               | In-memory by default, no metadata filtering |
-| Pinecone / Weaviate | Require external hosted infrastructure      |
-| numpy brute force   | O(n) scan — does not scale                  |
-
-**Why ChromaDB:**
+**Justification:**
 
 - Pure Python library, zero infrastructure
 - Persists to disk, survives restarts
@@ -249,8 +241,7 @@ Loading order: model → ChromaDB → memberships → cluster centers → PCA mo
 
 ### Swagger UI as interface
 
-FastAPI generates an interactive UI at `http://localhost:8000/docs`.
-All endpoints testable directly from the browser — no separate frontend required.
+FastAPI generates an interactive and testable UI at `http://localhost:8000/docs`.
 
 ---
 
