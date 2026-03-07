@@ -1,0 +1,38 @@
+# Generated data files — regenerate with make pipeline
+data/cleaned_newsgroups.csv
+data/embeddings_matrix.npy
+data/cluster_memberships.npy
+data/cluster_centers.npy
+data/pca_model.joblib
+data/chroma_db/
+
+# Committed intentionally
+!data/samples/
+!data/samples/*.csv
+!data/samples/*.json
+!analysis/plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env

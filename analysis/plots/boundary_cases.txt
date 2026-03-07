@@ -1,0 +1,43 @@
+BOUNDARY / UNCERTAIN DOCUMENTS  k=30
+============================================================
+High entropy = membership spread across clusters = document spans multiple topics.
+
+[1] category=talk.politics.guns  entropy=1.736
+    cluster 19: 0.289  |  cluster 9: 0.228
+    Well, if we're going to discuss being a police officer in America today. The FBI lists 132 police officers killed (feloniously and accidentally) in 1990. That's apparently everybody at all levels. Year Officers killed Rate/100,000 police officers 198...
+
+[2] category=comp.sys.mac.hardware  entropy=1.725
+    cluster 22: 0.299  |  cluster 0: 0.221
+    I just got a Quadra 800 8/230 and I've noticed that I can't change the desktop color from the beautiful gray. I thought maybe I should reinstall the OS using the "Install Me First, Macintosh Centris, Quadra..." diskette because the system file on thi...
+
+[3] category=comp.sys.ibm.pc.hardware  entropy=1.717
+    cluster 19: 0.279  |  cluster 12: 0.212
+    Hi! I was wondering if anyone out there could point me to where I can get the VESA specifications or any relevant books on this subject. Regards Jimmy...
+
+[4] category=alt.atheism  entropy=1.684
+    cluster 8: 0.344  |  cluster 3: 0.203
+    : BULLSHIT!!! In the Gulf Massacre, 7% of all ordnance used was "smart." The : rest - that's 93% - was just regular, dumb ol' iron bombs and stuff. Have : you forgotten that the Pentagon definition of a successful Patriot launch : was when the missil...
+
+[5] category=sci.crypt  entropy=1.664
+    cluster 0: 0.241  |  cluster 23: 0.237
+    I got a number of requests for code. So, here it is. Its written in 80x86 ASM. Borland TASM will do. TASM LGA.ASM TLINK /t LGA.ASM The code: ;---------------------------------------------------------------------- ; LGA ncryption ; (C) by Nick Nassuph...
+
+[6] category=alt.atheism  entropy=1.662
+    cluster 9: 0.318  |  cluster 28: 0.254
+    [I write:] #>>> Imagine that 1000000 Alterian dollars turn up in your bank account every #>>> month. Suppose further that this money is being paid to you by (a) your #>>> big-hearted Alterian benefactor, or (b) a bug in an Alterian ATM. Let's #>>> su...
+
+[7] category=rec.sport.baseball  entropy=1.651
+    cluster 19: 0.333  |  cluster 3: 0.252
+    Something else to consider: Alomar's H-R splits were .500-.363 SLG, .444-.369 OBP! Baerga's was .486-.424 and .392-.318. Pretty clearly, Alomar got a HUGE boost from his home park. I'd say you could make a good for them being about equal right now. T...
+
+[8] category=comp.os.ms-windows.misc  entropy=1.635
+    cluster 19: 0.307  |  cluster 18: 0.233
+    This isn't entirely true. It is true that TrueType fonts are larger than their ATM counterparts, but ATM fonts *do* get minimal compression. Running Stacker 3.0 report generator, I get: File Type: Compression Ratio: ------------- ------------------ *...
+
+[9] category=sci.electronics  entropy=1.634
+    cluster 2: 0.405  |  cluster 23: 0.251
+    Are any of the inputs to the chip coming from TTL? Standby-drain specs for CMOS chips typically apply only if inputs are pulled all the way down to zero or all the way up to Vcc. TTL isn't good at doing the former and it won't do the latter at all wi...
+
+[10] category=comp.sys.mac.hardware  entropy=1.578
+    cluster 10: 0.332  |  cluster 19: 0.237
+    Seth> I fail to see any advantage whatsoever with this kind of set-up. Seth> What a DUMB idea. So don't buy one. Kristen This copy of Freddie 1.2.5 is being evaluated....

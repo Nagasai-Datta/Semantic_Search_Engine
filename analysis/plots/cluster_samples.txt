@@ -1,0 +1,362 @@
+CLUSTER SAMPLES  k=30
+============================================================
+
+
+CLUSTER 0
+----------------------------------------
+  [1] category=comp.os.ms-windows.misc  membership=1.000
+      I'm looking for a decent Windows news reader. I've given up on winvn 0.76 since it doesn't work very well with the winsock.dll of the IBM TCP/IP for DOS 2.1. What the status of Tru...
+
+  [2] category=comp.os.ms-windows.misc  membership=1.000
+      ^ Novell is at least demoing windows apps running under UNIXWare. ^ ^ Try MKS. MKS & others, esp. EMX Note here: the MKS toolkit (for DOS/Windows & OS/2) gives you a good suite of ...
+
+  [3] category=comp.os.ms-windows.misc  membership=1.000
+      Sorry, I don't have the demo, but I do have the program and have been using it for the past few weeks. Since I now have Dos 6 as well, I don't use many of the features of PCT4Win. ...
+
+
+CLUSTER 1
+----------------------------------------
+  [1] category=soc.religion.christian  membership=1.000
+      I have not seen this book, though I have had several people quote it in support of some tendentious assertions they were making, so I have become curious about it. I don't want to ...
+
+  [2] category=soc.religion.christian  membership=1.000
+      I've just read Carol's response and I just had to get into this. I've got some verses which are not subject to interpretation because they say what they say. They are 2 Peter 1:20-...
+
+  [3] category=talk.religion.misc  membership=1.000
+      pmy> ...Anyway, I've often wondered what business followers of Christ pmy> would have with weapons. fc> Didn't Christ tell his disciples to arm them selves, shortly fc> before his ...
+
+
+CLUSTER 2
+----------------------------------------
+  [1] category=comp.sys.mac.hardware  membership=1.000
+      Not quite. 66MHz Pentium - 65 SPECint92, 57 SPECfp92 . 66MHz MC98601 - 50 SPECint92, 80 SPECfp92 . Note that SPECint is more important for most real world applications. As far as t...
+
+  [2] category=comp.graphics  membership=1.000
+      Acorn Replay running on a 25MHz ARM 3 processor (the ARM 3 is about 20% slower than the ARM 6) does this in software (off a standard CD-ROM). 16 bit colour at about the same resolu...
+
+  [3] category=comp.sys.ibm.pc.hardware  membership=1.000
+      It seems that there are a lot of questions regarding the Cyrix 386 compatible 486DLC and 486DRU2. My info comes directly from Cyrix's Fast Fax service: And also from installing one...
+
+
+CLUSTER 3
+----------------------------------------
+  [1] category=rec.sport.hockey  membership=1.000
+      Not to mention, Mr. Francis is an incredibly nice person. Over Christmas break, a friend of mine had a little Xmas gathering. The two of us drove to Ron's house. While I stayed in ...
+
+  [2] category=sci.med  membership=1.000
+      Gosh, Jesse is that famous now? He was my intern. Landau not liking it makes me like it out of spite. (Just kidding, Bill). -- -----------------------------------------------------...
+
+  [3] category=alt.atheism  membership=1.000
+      Sorry, gotta disagree with you on this one Maddi (not the resemblence to Bill. The nickname). I prefer "Half" Bake'd Timmons /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/...
+
+
+CLUSTER 4
+----------------------------------------
+  [1] category=sci.med  membership=1.000
+      I am posting to this group in hopes of finding someone out there in network newsland who has heard of something similar to what I am going to describe here. I have a fourteen year ...
+
+  [2] category=sci.med  membership=1.000
+      I'll tell you all that I know about chromium. But before I do, I want to get a few things off my chest. I just got blasted in e-mail for my kidney stone posts. Kidney stones are pr...
+
+  [3] category=sci.med  membership=1.000
+      Why don't you just look it up in the Merk? Or check out the medical dictionary cite which a doctor mentioned earlier in this thread? Among others, see Olney's "Excitotoxic Food Adi...
+
+
+CLUSTER 5
+----------------------------------------
+  [1] category=rec.motorcycles  membership=1.000
+      JL-NS>Subject: Re: Motorcycle Courier (Summer Job) I'd like to thank everyone who replied. I will probably start looking in earnest after May, when I return from my trip down the P...
+
+  [2] category=rec.motorcycles  membership=1.000
+      Moreover, if two riders are riding together at the same speed, one might be riding well beyond his abilities and the other may have a safety margin left. Allan, I know the circumst...
+
+  [3] category=rec.motorcycles  membership=1.000
+      In New Orleans, LA, there was a company making motorcycles for WHEELCHAIR bound people! The rig consists of a flat-bed sidecar rig that the wheelchair can be clamped to. The car ha...
+
+
+CLUSTER 6
+----------------------------------------
+  [1] category=talk.politics.mideast  membership=1.000
+      the last arab country was syria. but not all of them migrated due to the jewish state economical and securital dilemma!...
+
+  [2] category=talk.politics.mideast  membership=1.000
+      Anybody has any information about the number of the people have been killed by Israel during these 44 HAPPY YEAR?...
+
+  [3] category=talk.politics.misc  membership=1.000
+      Do all those who are saying the government is responsible for the death of those in the compound also say that the Isrealis are responsible for the death of the Isreali athletes at...
+
+
+CLUSTER 7
+----------------------------------------
+  [1] category=comp.windows.x  membership=1.000
+      The following problem is really bugging me, and I would appreciate any help. I create two windows: w1 (child to root) with event_mask = ButtonPressMask|KeyPressMask; w2 (child to w...
+
+  [2] category=comp.windows.x  membership=1.000
+      I've found a problem in the use of Xlib functions regarding re-entrancy. I decided to implement an animated cursor (using 6 created cursors) by calling XDefineCursor from a SIG_ALR...
+
+  [3] category=comp.windows.x  membership=1.000
+      I have been building X11 with gcc since 2.1 and the only time I had trouble was when the position independant code option broke (so I couldn't use gcc to build Sun shared libraries...
+
+
+CLUSTER 8
+----------------------------------------
+  [1] category=talk.religion.misc  membership=1.000
+      Is there evidence independent of the FBI that indicates that the Branch Davidians set the fire? What have the survivors said? Did the press see anything? There is, unfortunately, p...
+
+  [2] category=talk.politics.misc  membership=1.000
+      Well they could unseal the original warrent (Why was i sealed in the first place?), release their video & tapes (from their listening devices inside the compound) and quit makeing ...
+
+  [3] category=talk.politics.guns  membership=1.000
+      Actually, if I were one of the survivors and wanted to institute a civil rights violation lawsuit against the Treasury Dept., I would claim that the BATF/FBI itself was to blame fo...
+
+
+CLUSTER 9
+----------------------------------------
+  [1] category=talk.politics.misc  membership=1.000
+      [purile babble deleted] Well, some form of guaranteed health care isn't a bad idea, but, yah, I'm a bit worried of a gubnint-run HMO myself. I'd much rather have something like Can...
+
+  [2] category=talk.politics.misc  membership=1.000
+      Oh, *really*??? I know that when working in Alberta, Ontario and Quebec, I was aware that I was paying for health insurance - e.g., in Toronto, OHIP fees were listed seperately on ...
+
+  [3] category=sci.med  membership=1.000
+      I agree. Adding layers of managers and bureaucrats simply eat up money that could be spent on those who actually are doing the work such as doctors and nurse, and supplies. The mos...
+
+
+CLUSTER 10
+----------------------------------------
+  [1] category=sci.crypt  membership=1.000
+      Reasonably fancy. Standard "voice" circuits run at 56kbps inter-exchange in the US. Therefore, you need to achieve 4:1 to get standard voice quality. If you're willing to give up s...
+
+  [2] category=sci.med  membership=1.000
+      The following is based on copies I was given of some articles published in Hearing Instruments. I would appreciate any comments about this and other 'new' technology for hearing ai...
+
+  [3] category=sci.electronics  membership=1.000
+      If I remember rightly, there is a pulsating set of tones piped thru the CATV systems (somewheres near the FM broadcast band). And that the cable company trucks listen for this as t...
+
+
+CLUSTER 11
+----------------------------------------
+  [1] category=rec.sport.hockey  membership=1.000
+      For those of you who read TV Guide, there's an article in next week's SPORTSVIEW concerning the NHL and major network broadcasting. Pretty interesting....
+
+  [2] category=rec.sport.hockey  membership=1.000
+      ESPN has been trying various things to get away from the follow-the-puck concept of televising hockey games. One of the main problems with hockey is that it is very difficult to sh...
+
+  [3] category=rec.sport.hockey  membership=1.000
+      I agree thouroughly!! Screw the damn contractual agreements! Show the exciting hockey game. They will lose fans of ESPN (of which I have been one for quite a while) quickly with de...
+
+
+CLUSTER 12
+----------------------------------------
+  [1] category=comp.os.ms-windows.misc  membership=1.000
+      Walther, I'd have a look at the maximum resolution the combination of the video card and screen would have without flickering. I'd only suggest using the color screen if it does 80...
+
+  [2] category=comp.graphics  membership=1.000
+      Hi! I need a Windows 3.1 driver for the Matrox PG-1281 CV SVGA card. At the moment Windows runs only in the 640x480 mode. If you have a driver for this card, please send it with th...
+
+  [3] category=misc.forsale  membership=1.000
+      As it says in the subject, I am looking for a decent EGA or VGA monitor/card combo that is in working condition. The only thing is that it must be an 8-bit card. E-Mail all offers ...
+
+
+CLUSTER 13
+----------------------------------------
+  [1] category=comp.sys.mac.hardware  membership=1.000
+      I've got a Racet 5.25" MO Drive with a Ricoh RO-5030E mechanism with the new ROMs... The thing is, I have a new TOSOH Optical Disk 512/bytes per sector cart for the thing that refu...
+
+  [2] category=misc.forsale  membership=1.000
+      Sorry for any confusion I may have created. The disk did come out of a VS2000 and I would like to use it in a IBM PC clone. The reason that I posted to comp.sys.3b1 was because I s...
+
+  [3] category=misc.forsale  membership=1.000
+      Seagate 1.2GB SCSI hard Drive Brand NEW with full factory warranty. 5-1/4" FH, 15ms access time, 150,000 MTBF Only $1100+s/h....
+
+
+CLUSTER 14
+----------------------------------------
+  [1] category=rec.sport.baseball  membership=1.000
+      But why McGwire, and not Carter? I can see some justification for Bonds or Thomas, because they tend to have higher batting averages, but the major difference I see between McGwire...
+
+  [2] category=rec.sport.baseball  membership=1.000
+      Tim Belcher pitched a dandy three-hit shut-out tonight as Cincinnati won their second straight 5-0. Pittsburgh Lefty Randy Tomlin was hit early and often by the heavily right-unbal...
+
+  [3] category=rec.sport.baseball  membership=1.000
+      Oh, lighten up. What depresses me is that they might actually finish last, which I believe hasn't happened since their second season in 1970. Never mind that Gubizca is 0-2 with a ...
+
+
+CLUSTER 15
+----------------------------------------
+  [1] category=rec.autos  membership=1.000
+      Well the European Manta and US GT have entirely different bodies. There is little or no chance that they are the same. The Manta went through several generations as the coupe versi...
+
+  [2] category=rec.autos  membership=1.000
+      There was an article in Business week not more the 4 weeks ago on this very subject. IN fact the Volvo 850 was one of the cars they laid out an example for....
+
+  [3] category=rec.autos  membership=1.000
+      Pretty much like the people who buy the Mazda MX-5 (Miata) today. Small fun and you can fool yourself (and a lot of other people) that you have the performance of many far superior...
+
+
+CLUSTER 16
+----------------------------------------
+  [1] category=sci.space  membership=1.000
+      I can't see the need for a single (big? expensive? heavy?) "mothership" except for Voyager style flyby missions. A few years ago, I did some calculations on a "Grand Tour" space pr...
+
+  [2] category=sci.space  membership=1.000
+      Astronomy & Space magazine's UK telephone newsline carries the times to see the Russian Space Station Mir which will be visible every EVENING (some time between 9 o'clock and midni...
+
+  [3] category=sci.space  membership=1.000
+      Hmm. $1 billion, lesse... I can probably launch 100 tons to LEO at $200 million, in five years, which gives about 20 tons to the lunar surface one-way. Say five tons of that is a r...
+
+
+CLUSTER 17
+----------------------------------------
+  [1] category=talk.politics.guns  membership=1.000
+      :Yea, there are millions of cases where yoy *say* that firearms :'deter' criminals. Alas, this is not provable. I think that that :there are actually *few* cases where this is so. ...
+
+  [2] category=talk.politics.guns  membership=1.000
+      I'm getting tired of these wimpy Liberals whining about gun control, too! Ya know, the Second Amendment says A well regulated militia, being necessary to the security of a free Sta...
+
+  [3] category=talk.politics.guns  membership=1.000
+      re: is "John Q. Public with a gun" protected? Miller was convicted of owning a sawed-off shotgun and not paying the NFA '34 tax. Snatches of the court's decision: The Second Amendm...
+
+
+CLUSTER 18
+----------------------------------------
+  [1] category=sci.electronics  membership=1.000
+      Just to complete that thought, the cooling towers cool water that circulates through heat exchangers that recondense the turbine exhaust back into feedwater for the heat exchangers...
+
+  [2] category=rec.motorcycles  membership=1.000
+      Hell, just save your candle stubs and bring them. Light them up, and dribble the wax all over the kindling wood and light _that_. Although I like the belly-button lint / eggshell c...
+
+  [3] category=comp.sys.mac.hardware  membership=1.000
+      the Just use a thin film of epoxy. That!s what I did. Epoxy conducts heat fairly well. And my heat sink gets warm to prove it. I looked for the stuff myself & my local EE jocks sai...
+
+
+CLUSTER 19
+----------------------------------------
+  [1] category=comp.windows.x  membership=1.000
+      A few days ago there was a posting in this group by Andrea Winkler titled "X and Security / X Technical Conference". I was one of the instructors of that tutorial. Unfortunately, m...
+
+  [2] category=comp.windows.x  membership=1.000
+      Hi, all! Anyone knows of a Motif mailing list? I don't have access to network news and there is no longer a motif list at alfalfa.com. Thanks, Joel. -- ----------------------------...
+
+  [3] category=talk.religion.misc  membership=1.000
+      Does this organization have an official e-mail address these days? (an address for any of the SF Bay Area Lodges, e.g. Thelema would do.) 93... A.Lizard...
+
+
+CLUSTER 20
+----------------------------------------
+  [1] category=sci.crypt  membership=1.000
+      Hmm, here are a couple: 1) If the algorithm becomes known, it will be easy to produce pin-compatible non-crippled chips that provide -real- encryption and privacy, because their ke...
+
+  [2] category=sci.crypt  membership=1.000
+      If we do not trust the NSA to be a registrar of Clipper Chip key halves, I would not trust Mitre either. Mitre does lots of work for NSA, at least in the Trusted Product Evaluation...
+
+  [3] category=sci.crypt  membership=1.000
+      Is it realistic for the government to try to keep the details of the encrytion algorithm secret if it intends to use evidence from wiretaps in court? Won't defense attorneys attemp...
+
+
+CLUSTER 21
+----------------------------------------
+  [1] category=alt.atheism  membership=1.000
+      Yes I fully agree with that, but is it "I don't believe gods exist", or "I believe no gods exist"? As (Mats Andtbacka) pointed out, it all hinges on what you take the word "believe...
+
+  [2] category=alt.atheism  membership=1.000
+      : But how do we know that you're representing the REAL Christians? : ;-) : Bill, you're an asshole. Get lost. Maddi, I see that you still can't grasp the obvious, is it because you...
+
+  [3] category=alt.atheism  membership=1.000
+      I wonder how many atheists out there care to speculate on the face of the world if atheists were the majority rather than the minority group of the population. It is rather a ridic...
+
+
+CLUSTER 22
+----------------------------------------
+  [1] category=comp.sys.ibm.pc.hardware  membership=1.000
+      hello, for 2 months I've unsuccessfully attempted to get either a 3rd or 4th serial port working on my system. various systems diagnostics (e.g., MSD, Norton) tell me it's there, b...
+
+  [2] category=comp.sys.ibm.pc.hardware  membership=1.000
+      What 4 or more com port boards are available for PCs? We want standard com ports, so no need to mention the expensive coprocessed ones. They should either be able to share IRQs or ...
+
+  [3] category=comp.sys.ibm.pc.hardware  membership=1.000
+      I'm trying to connect a Mac SE modem port to a PC 25 way serial port, can someone provide me with a wiring diagram for a null modem lead for this setup. Please use Email since my n...
+
+
+CLUSTER 23
+----------------------------------------
+  [1] category=comp.sys.mac.hardware  membership=1.000
+      stuff deleted stuff deleted The problem mentioned last is a known Quadra SCSI problem, it was heavily discussed last year and an Apple employee pointed out that there was a one byt...
+
+  [2] category=comp.sys.mac.hardware  membership=1.000
+      I had a similar problem with my StyleWriter I (the original!). Have you tried cleaning the print heads? With the SWII driver, it's and option in the Print dialog box. Sometimes I h...
+
+  [3] category=comp.sys.mac.hardware  membership=1.000
+      I've changed the battery in the thing (shortly after the problem first happened) and I've noticed an inordinate number of Bus errors lately......
+
+
+CLUSTER 24
+----------------------------------------
+  [1] category=comp.windows.x  membership=1.000
+      : It seems silly, but while I've located things like tgif that can edit : gif files, and various tools to convert to/from gif format, I haven't : been able to locate a program that...
+
+  [2] category=comp.graphics  membership=1.000
+      **************************** SPHINX *************************** Sphinx is a user-friendly, state-of-the-art image processing and analysis package that runs across a spectrum of hig...
+
+  [3] category=comp.graphics  membership=1.000
+      It's really not that hard to do. There are books out there which explain everything, and the basic 3D functions, translation, rotation, shading, and hidden line removal are pretty ...
+
+
+CLUSTER 25
+----------------------------------------
+  [1] category=talk.politics.mideast  membership=1.000
+      Let us not forget about the genocide of the Azeri people in 'Karabag' and x-Soviet Armenia by the Armenians. Between 1914 and 1920, Armenians committed unheard-of crimes, resorted ...
+
+  [2] category=talk.politics.mideast  membership=1.000
+      That is the result of living in an alternate universe with 'Arromdians' of the ASALA/SDPA/ARF Terrorism and Revisionism Triangle. Are you '*ians' for real? A Final Goodbye in Azerb...
+
+  [3] category=talk.politics.mideast  membership=1.000
+      This is the point we seem to disagree about. Not a chance. Well, "Arromdian" of ASALA/SDPA/ARF Terrorism and Revisionism Triangle is a compulsive liar. Now try dealing with the res...
+
+
+CLUSTER 26
+----------------------------------------
+  [1] category=rec.sport.hockey  membership=1.000
+      I am sure some bashers of Pens fans are pretty confused about the lack of any kind of posts about the recent Pens massacre of the Devils. Actually, I am bit puzzled too and a bit r...
+
+  [2] category=rec.sport.hockey  membership=1.000
+      To put it mildly. As I watched the Flyers demolish Toronto last night, 4-0, I realized that no matter how good the Leafs' #1 line may be, they'll need one or two more decent lines ...
+
+  [3] category=rec.sport.hockey  membership=1.000
+      Here is yet another prediction for them great playoffs! (you may laugh at your convenience!) :) Adams Division (I hate the NE (name) divisoin!!!) BOS vs BUF BOS in 5 (the B's are h...
+
+
+CLUSTER 27
+----------------------------------------
+  [1] category=soc.religion.christian  membership=1.000
+      : : In the NT, the clear references are all from Paul's letters. In Rom : 1, there is a passage that presupposes that homosexuality is an evil. : Note that the passage isn't about ...
+
+  [2] category=alt.atheism  membership=1.000
+      Is the distinction important? Well, our moral system seems to mimic the natural one, in a number of ways. I don't know. What is wrong? Is it possible for humans to survive for a lo...
+
+  [3] category=talk.politics.misc  membership=1.000
+      Actually, what the study shows is that 2 percent of the men surveyed *said* they engaged in homosexual sex and 1 percent *said* they considered themselves exclusively homosexual. T...
+
+
+CLUSTER 28
+----------------------------------------
+  [1] category=talk.politics.misc  membership=1.000
+      It's not what they did that matters. It's what *you* do and what *I* do and what *we* do in response that matters. Do we lessen ourselves by killing in response to killing? It's ve...
+
+  [2] category=alt.atheism  membership=1.000
+      Sorry, I don't follow your reasoning. You are proposing to punish people *before* they commit a crime? What justification do you have for this?...
+
+  [3] category=talk.religion.misc  membership=1.000
+      /(hudson) /Yes you do. Who is to say that it is immoral for onesself to experience /pain or to be hurt in some other way. Maybe unpleasant, but that doesn't /say anything about mor...
+
+
+CLUSTER 29
+----------------------------------------
+  [1] category=misc.forsale  membership=1.000
+      I have a few things to sell. All items are in great condition. All prices include shipping. If you have any questions contact me by E-Mail or call me at (814)234-4439. Darryl DJ Eq...
+
+  [2] category=misc.forsale  membership=1.000
+      PC GAMES FOR SALE...... Both Games in original package and original docs. Jordan In Flight $30 +S&H Test Drive 3 $15 + S&H Or OBO Contact Bob at......
+
+  [3] category=misc.forsale  membership=1.000
+      I have following softwares for sale: NEW ITEMS (never opened): 1. Lucid 3-D, three dimensional spreadsheet: with pull-down menus, on-line help, up to 8 pages of notes behind every ...

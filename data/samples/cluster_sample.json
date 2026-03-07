@@ -1,0 +1,508 @@
+{
+  "n_clusters": 20,
+  "bic": -1784714.69,
+  "cluster_samples": {
+    "cluster_0": [
+      {
+        "doc_id": "doc_0",
+        "category": "rec.sport.hockey",
+        "membership": 1.0,
+        "text_snippet": "I am sure some bashers of Pens fans are pretty confused about the lack of any kind of posts about the recent Pens massacre of the Devils. Actually, I am bit puzzled too and a bit relieved. However, I "
+      },
+      {
+        "doc_id": "doc_525",
+        "category": "rec.sport.hockey",
+        "membership": 1.0,
+        "text_snippet": "That was Clint Malarchuk. That was a very dangerous accident. He could he died right there on the ice. However, he has played since but I don't know where he is now. I think he is still playing but I'"
+      },
+      {
+        "doc_id": "doc_16176",
+        "category": "rec.sport.hockey",
+        "membership": 1.0,
+        "text_snippet": "This is a general question for US readers: How extensive is the playoff coverage down there? In Canada, it is almost impossible not to watch a series on TV (ie the only two series I have not had an op"
+      }
+    ],
+    "cluster_1": [
+      {
+        "doc_id": "doc_1694",
+        "category": "comp.sys.mac.hardware",
+        "membership": 1.0,
+        "text_snippet": "Actually, the Quadra 900 and 950 both have the same SCSI controller, (running at different speed). They are not SCSI 2, but can support certain SCSI commands that take advantage of faster drives. The "
+      },
+      {
+        "doc_id": "doc_15953",
+        "category": "comp.sys.mac.hardware",
+        "membership": 1.0,
+        "text_snippet": "Not quite. 66MHz Pentium - 65 SPECint92, 57 SPECfp92 . 66MHz MC98601 - 50 SPECint92, 80 SPECfp92 . Note that SPECint is more important for most real world applications. As far as the 486DX2-66 goes - "
+      },
+      {
+        "doc_id": "doc_13077",
+        "category": "comp.graphics",
+        "membership": 1.0,
+        "text_snippet": "FOR IMMEDIATE RELEASE Editorial Contact: Single Source Marketing: Myra Manahan (714) 545-1338 Genoa Systems: Joseph Brunoli (408) 432-9090 Neil Roehm (408) 432-9090/Technical Genoa Presents High Perfo"
+      }
+    ],
+    "cluster_2": [
+      {
+        "doc_id": "doc_658",
+        "category": "rec.motorcycles",
+        "membership": 1.0,
+        "text_snippet": "There's plenty of legroom on the Kawasaki KLR650. A bit short in the braking department for spirited street riding, but enough for dirt and for less-agressive street stuff. --"
+      },
+      {
+        "doc_id": "doc_1278",
+        "category": "rec.motorcycles",
+        "membership": 1.0,
+        "text_snippet": "[lots of things, none of which are quoted here] Oh, ye of little imagination. You don't jump over those - that's where you lay the bike down and slide under!"
+      },
+      {
+        "doc_id": "doc_9265",
+        "category": "rec.motorcycles",
+        "membership": 1.0,
+        "text_snippet": "I need some advice on having someone ride pillion with me on my 750 Ninja. This will be the the first time I've taken anyone for an extended ride (read: farther than around the block :-). We'll be rid"
+      }
+    ],
+    "cluster_3": [
+      {
+        "doc_id": "doc_12447",
+        "category": "rec.autos",
+        "membership": 1.0,
+        "text_snippet": "A Yugo that will go 1/4mi in 7.7 seconds will _not_ lose on the street. That's just too damn quick. It might be wrapped around a telephone pole at the end of that quarter mile, but it will be there al"
+      },
+      {
+        "doc_id": "doc_5068",
+        "category": "rec.autos",
+        "membership": 1.0,
+        "text_snippet": ": : >: > HELP!!! : >: > my wife has informed me that she wants a convertible for her next car. : >: FYI, just last week the PBS show Motor Week gave the results of what they : >: thought were the best"
+      },
+      {
+        "doc_id": "doc_3278",
+        "category": "rec.autos",
+        "membership": 1.0,
+        "text_snippet": "If you hold off, there are a number of interesting convertibles coming to market in the next few years. The new LeBaron will be based on the Mitsubishi Galant, which should be an improvement over the "
+      }
+    ],
+    "cluster_4": [
+      {
+        "doc_id": "doc_15132",
+        "category": "sci.med",
+        "membership": 1.0,
+        "text_snippet": "My (then) wife used to get recurrent yeast infections. One day, her doctor sent her home with medication for her and a pill for me. I took the pill, upon her insistence, and was very relieved the next"
+      },
+      {
+        "doc_id": "doc_8062",
+        "category": "sci.med",
+        "membership": 1.0,
+        "text_snippet": "MSG is common in many food we eat, including Chinese (though some oriental restaurants might put a tad too much in them). I've noticed that when I go out and eat in most of the Chinese food restaurant"
+      },
+      {
+        "doc_id": "doc_10112",
+        "category": "sci.med",
+        "membership": 1.0,
+        "text_snippet": "-- and -- Good grief; has no one ever heard of Biostatistics?? The University of Washington (plus 3 or 4 others [Harvard, UNC]) has a department and advanced degree program in Biostatistics. My wife h"
+      }
+    ],
+    "cluster_5": [
+      {
+        "doc_id": "doc_4117",
+        "category": "talk.politics.misc",
+        "membership": 1.0,
+        "text_snippet": "An addition to anti-discrimination laws which includes homo and bisexuality ? One would assume it would be because politicians were listening to the people coming up with rational arguments rather tha"
+      },
+      {
+        "doc_id": "doc_3899",
+        "category": "talk.politics.misc",
+        "membership": 1.0,
+        "text_snippet": "# #Actually, I bet you more gay/bi men are as not as promiscuous as gay men, # #because more of them could have the \"option\" of living a straight life, and # #with social pressures, probably would at "
+      },
+      {
+        "doc_id": "doc_399",
+        "category": "alt.atheism",
+        "membership": 1.0,
+        "text_snippet": "Well, I've provided examples to show that the trend was general, and you (or others) have provided some counterexamples, mostly ones surrounding mating practices, etc. I don't think that these few cas"
+      }
+    ],
+    "cluster_6": [
+      {
+        "doc_id": "doc_10153",
+        "category": "comp.os.ms-windows.misc",
+        "membership": 1.0,
+        "text_snippet": "-- My wife is a physiotherapist and she is looking for some cliparts of skeleton and male/female body. We're currently using Windows Draw which can import all kind of graphic formats. Therefore, anyth"
+      },
+      {
+        "doc_id": "doc_2637",
+        "category": "comp.graphics",
+        "membership": 1.0,
+        "text_snippet": "Hi I am looking for Image Analysis software running in DOS or Windows. I'd like to be able to analyze TIFF or similar files to generate histograms of patterns, etc. Any help would be appreciated! ____"
+      },
+      {
+        "doc_id": "doc_1530",
+        "category": "comp.graphics",
+        "membership": 1.0,
+        "text_snippet": ": I'm not sure if this is the correct place to ask this question. If not, : please forgive me and point me in the right direction. : Does anybody know of a program that converts .GIF files to .BMP fil"
+      }
+    ],
+    "cluster_7": [
+      {
+        "doc_id": "doc_4068",
+        "category": "talk.politics.misc",
+        "membership": 1.0,
+        "text_snippet": "(Robert L. McMillin) rants: And how did the \"free love advocates of the 1960's\" manage to perform this demolition--forced breeding programs or something? Now let me get this straight. After a nice, lo"
+      },
+      {
+        "doc_id": "doc_11951",
+        "category": "talk.politics.misc",
+        "membership": 1.0,
+        "text_snippet": "-> >Now let me get this straight. After a nice, long rant about -> >how people need to take personal responsibility for their -> >economic and social lives, all of a sudden 1960's radicals -> >(such a"
+      },
+      {
+        "doc_id": "doc_2012",
+        "category": "talk.politics.misc",
+        "membership": 1.0,
+        "text_snippet": "Kaldis, you are a worm. Translation- It's them DAMN liberals again! Who gave you the authority to create and enforce this rather hazy thing called \"the American Way\"? This is a democracy, and we don't"
+      }
+    ],
+    "cluster_8": [
+      {
+        "doc_id": "doc_14608",
+        "category": "rec.sport.baseball",
+        "membership": 1.0,
+        "text_snippet": "Could some kind soul out there e-mail me the 411 on where I can find the mlb.c program? I'm interested in some road trips this year...."
+      },
+      {
+        "doc_id": "doc_4394",
+        "category": "rec.sport.hockey",
+        "membership": 1.0,
+        "text_snippet": "As I've mentioned in the rules posting, I will be out of town until the day before the entry deadline, so I won't be able to respond to your messages until April 18. I would be grateful if someone cou"
+      },
+      {
+        "doc_id": "doc_16474",
+        "category": "soc.religion.christian",
+        "membership": 1.0,
+        "text_snippet": "From the June newsletter of the Latin Liturgy Association: There is a new e-mail discussion group: LATIN-L, a forum for people interested in classical Latin, medieval Latin, Neo-Latin; the languages o"
+      }
+    ],
+    "cluster_9": [
+      {
+        "doc_id": "doc_14071",
+        "category": "sci.space",
+        "membership": 1.0,
+        "text_snippet": "You may want to put Hubble back in the payload bay for a reboost, and you don't want to clip off the panels each time. For the Gamma-Ray Observatory, one of the design requirements was that there be n"
+      },
+      {
+        "doc_id": "doc_4250",
+        "category": "sci.space",
+        "membership": 1.0,
+        "text_snippet": "Why use a ground launch pad. It is entirely posible to launch from altitude. This was what the Shuttle was originally intended to do! It might be seriously cheaper. Also, what about bio-engineered CO2"
+      },
+      {
+        "doc_id": "doc_12496",
+        "category": "sci.space",
+        "membership": 1.0,
+        "text_snippet": "I would just like to point out that it is much easier to place an object at orbital altitude than it is to place it with orbital velocity. For a target 300 km above the surface of Earth, you need a de"
+      }
+    ],
+    "cluster_10": [
+      {
+        "doc_id": "doc_9140",
+        "category": "sci.crypt",
+        "membership": 1.0,
+        "text_snippet": "The stragegy of the government is interesting. The real fear comes from them doing more than this. This is a voluntary program, and thus harder for us to object to on the surface. Their strategy is a "
+      },
+      {
+        "doc_id": "doc_14080",
+        "category": "sci.crypt",
+        "membership": 1.0,
+        "text_snippet": ">Remember that they've promised to let a committee of outside experts see >the cryptosystem design. I hope there are some silicon jocks on the committee who can follow the algorithm through to hardwar"
+      },
+      {
+        "doc_id": "doc_1032",
+        "category": "sci.crypt",
+        "membership": 1.0,
+        "text_snippet": ">there's no problem. The Feds don't care whose phone instrument is used, just >that the conversation is by the suspect on the tapped line. They get the >serial number, get the keys, and they are in bu"
+      }
+    ],
+    "cluster_11": [
+      {
+        "doc_id": "doc_6952",
+        "category": "talk.religion.misc",
+        "membership": 1.0,
+        "text_snippet": "Brian, it doesn't offend me if you decide to reject Jesus Christ. I only wish you would make that decision after you learn who Jesus is."
+      },
+      {
+        "doc_id": "doc_15972",
+        "category": "soc.religion.christian",
+        "membership": 1.0,
+        "text_snippet": "I define faith as \"belief, in the abscense(sp?) of evidence\". I also include in \"evidence\" past experiences. Because I have no past experience in a god actually having an effect on my life and because"
+      },
+      {
+        "doc_id": "doc_8077",
+        "category": "talk.religion.misc",
+        "membership": 1.0,
+        "text_snippet": "Um, I think you and the Bible are the ones inside the wall. There's a really wonderful world out here. You really should peek out at it sometime. The silly things you keep saying only reinforce the fa"
+      }
+    ],
+    "cluster_12": [
+      {
+        "doc_id": "doc_8754",
+        "category": "talk.politics.mideast",
+        "membership": 1.0,
+        "text_snippet": "Poor 'Poly'. I see you're preparing the groundwork for yet another retreat from your 'Arromdian-ASALA/SDPA/ARF' claims. Just love it. If that does ever happen, look out the window and see if there is "
+      },
+      {
+        "doc_id": "doc_1080",
+        "category": "talk.politics.mideast",
+        "membership": 1.0,
+        "text_snippet": "BM] Gimme a break. CAPITAL letters, or NOT, the above is pure nonsense. BM] It seems to me that short sighted Armenians are escalating the hostilities ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ The windin"
+      },
+      {
+        "doc_id": "doc_3881",
+        "category": "talk.politics.mideast",
+        "membership": 1.0,
+        "text_snippet": "Sooner than you expect. Remember 'Cyprus'? Too bad. In fact, by 1942, Nazi Armenians in Europe had established a vast network of pro-German collaborators, that extended over two continents. Thousands "
+      }
+    ],
+    "cluster_13": [
+      {
+        "doc_id": "doc_14677",
+        "category": "rec.sport.baseball",
+        "membership": 1.0,
+        "text_snippet": "MLB Standings and Scores for Satruday, April 17th, 1993 (including yesterday's games) NATIONAL WEST Won Lost Pct. GB Last 10 Streak Home Road San Francisco Giants 07 04 .636 -- 6-4 Won 2 04-01 03-03 H"
+      },
+      {
+        "doc_id": "doc_4597",
+        "category": "rec.sport.baseball",
+        "membership": 1.0,
+        "text_snippet": "To all those out there wondering about who holds the record for three homer games ina career, the answer is Johnny Mize in his career with the Cards and the Yanks. He hit three 6 times. I am almost su"
+      },
+      {
+        "doc_id": "doc_15182",
+        "category": "rec.sport.baseball",
+        "membership": 1.0,
+        "text_snippet": ": >|> >(2) Having Bonds batting behind Williams means that Matt will get : >|> > more good pitches to hit. This is important since he struggles : >|> > so much with breaking balls. Opposing pitchers d"
+      }
+    ],
+    "cluster_14": [
+      {
+        "doc_id": "doc_5065",
+        "category": "talk.politics.misc",
+        "membership": 1.0,
+        "text_snippet": "Just out of curiosity, what else was there to do in this situation? Wait another 51 days/weeks/months/years??? Was there anything indicating that these children and the other people were going to get "
+      },
+      {
+        "doc_id": "doc_12616",
+        "category": "talk.politics.guns",
+        "membership": 1.0,
+        "text_snippet": ": Oh? Then why did the smoke and flames start from three different places? : In particular, three different places where there were no APV's? The crushed remains of a PRESSURIZED propane tank were fou"
+      },
+      {
+        "doc_id": "doc_9250",
+        "category": "talk.politics.guns",
+        "membership": 1.0,
+        "text_snippet": "A great deal of documentation exists on exactly that phenomenon. Especially regarding Vietnam and the Mai Lai (sp?) massacre Not that I'm suggesting that they started it on purpose but even if they no"
+      }
+    ],
+    "cluster_15": [
+      {
+        "doc_id": "doc_883",
+        "category": "comp.sys.ibm.pc.hardware",
+        "membership": 1.0,
+        "text_snippet": "Have you checked: 1/ The setting of drive A: to 1.44 M floppy. 2/ The setting of drive B: to 1.2 M foppy. 3/ The cable connecting the two drives to the controller card (I can't remember which two wire"
+      },
+      {
+        "doc_id": "doc_10111",
+        "category": "comp.os.ms-windows.misc",
+        "membership": 1.0,
+        "text_snippet": "Hi. While running the MS Quick C compiler in a DOS window under Windows 3.1 this evening, I got a \"program has violated system integrity... close all applications, exit windows and restart your comput"
+      },
+      {
+        "doc_id": "doc_3870",
+        "category": "comp.os.ms-windows.misc",
+        "membership": 1.0,
+        "text_snippet": "I quit windows normally to run a special DOS app, got done with it and tried to start windows. Ok got the title screen, Windows background, DOS with an error about loading PROGMAN.EXE. Hum, yep PROGMA"
+      }
+    ],
+    "cluster_16": [
+      {
+        "doc_id": "doc_4252",
+        "category": "talk.politics.guns",
+        "membership": 1.0,
+        "text_snippet": "Ask the Brits. Enough people have been killed by rubber bullets that they now use them under only certain \"controlled\" circumstances. And they are fired from something that looks like a tear gas launc"
+      },
+      {
+        "doc_id": "doc_14429",
+        "category": "talk.politics.guns",
+        "membership": 1.0,
+        "text_snippet": "THE ARMED CITIZEN +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ Mere presence of a firearm, without a shot being fired, prevents crime in many instances, as shown by news reports s"
+      },
+      {
+        "doc_id": "doc_7707",
+        "category": "talk.politics.guns",
+        "membership": 1.0,
+        "text_snippet": "Two questions: When was this, and do you have the relevant numbers. (Please note, this is *not* in any way an indication I don't believe you or that you're not correct, but when the drop occured is re"
+      }
+    ],
+    "cluster_17": [
+      {
+        "doc_id": "doc_3700",
+        "category": "talk.politics.mideast",
+        "membership": 1.0,
+        "text_snippet": "This is such Bullshit. Deir Yassin was an unprovoked attack on the part of the Jews, and a massacre defines it best in my opinion. The village of Deir Yassin had had a pact with the Jews, a peace pact"
+      },
+      {
+        "doc_id": "doc_16400",
+        "category": "talk.politics.mideast",
+        "membership": 1.0,
+        "text_snippet": "^^^^^^^^^^^^^^^^^^ O.K., its my turn: DRIVING THE JEWS INTO THE SEA ?! I am sick and tired of this 'DRIVING THE JEWS INTO THE SEA' sentance attributed to Islamic movements and the PLO; it simply can't"
+      },
+      {
+        "doc_id": "doc_4977",
+        "category": "talk.politics.mideast",
+        "membership": 1.0,
+        "text_snippet": "Not acceptable. Syria and Lebanon have a right to determine if they wish to return to the situation prior to the French invasion where they were both part of the same \"mandate territory\" - read colony"
+      }
+    ],
+    "cluster_18": [
+      {
+        "doc_id": "doc_414",
+        "category": "misc.forsale",
+        "membership": 1.0,
+        "text_snippet": "I have the following 45 rpm singles for sale. Most are collectable 7-inch records with picture sleeves. Price does not include postage which is $1.21 for the first record, $1.69 for two, etc. Pink Flo"
+      },
+      {
+        "doc_id": "doc_16184",
+        "category": "misc.forsale",
+        "membership": 1.0,
+        "text_snippet": "*** 10 MONTH OLD POLK SYSTEM FOR SALE *** Excellent condition 10 month old (proof available) Polk Monitor 4.6 bookshelf speakers are being offered for sale. The are excellent, and sound great. I am go"
+      },
+      {
+        "doc_id": "doc_2036",
+        "category": "misc.forsale",
+        "membership": 1.0,
+        "text_snippet": "Electronics Art's Ultrabots game for sale with book and original 3.5\" disks in the original box. - $22 or best offer."
+      }
+    ],
+    "cluster_19": [
+      {
+        "doc_id": "doc_4417",
+        "category": "comp.windows.x",
+        "membership": 1.0,
+        "text_snippet": "I have found a situation which I think is a bug in X or Motif, but I'm hoping is really just a mistake on my part. Does anyone know anything about this problem........ - I am using an XmTextField, and"
+      },
+      {
+        "doc_id": "doc_2843",
+        "category": "comp.windows.x",
+        "membership": 1.0,
+        "text_snippet": "Hello folks, I'm seeing these errors when I try to modify my key map: mwm: invalid accelerator specfication, line x I've added a line in the start up file before the line that starts mwm. It looks lik"
+      },
+      {
+        "doc_id": "doc_3602",
+        "category": "comp.windows.x",
+        "membership": 1.0,
+        "text_snippet": "Hi ppl, I am running XFree386 under Linux SLS1.0 and am trying to get the german keyboard working. I have already recompiled my kernel and the german keyboard in the textmode works just fine. I have f"
+      }
+    ]
+  },
+  "boundary_cases": [
+    {
+      "doc_id": "doc_13530",
+      "category": "talk.religion.misc",
+      "entropy": 1.512,
+      "top_clusters": {
+        "cluster_8": 0.2898,
+        "cluster_9": 0.2637
+      },
+      "text_snippet": "[ deleted ] [ deleted ] Evolution is both fact and theory. The THEORY of evolution represents the scientific attempt to explain the FACT of evolution. The theory of evolution does not provide facts; it explains facts. It can be safely assumed that ALL scientific theories neither provide nor become f"
+    },
+    {
+      "doc_id": "doc_986",
+      "category": "talk.politics.guns",
+      "entropy": 1.508,
+      "top_clusters": {
+        "cluster_7": 0.3623,
+        "cluster_16": 0.2297
+      },
+      "text_snippet": "If you haven't heard yet, US Senator Patty Murrey, a Mom in tennis shoes, is planning to introduce legislation to tax all handgun transactions and increase dealer licnese costs in order to raise money to cover the costs of un-insured shooting victums. She plans to start with $2500.00 per year dealer"
+    },
+    {
+      "doc_id": "doc_1078",
+      "category": "comp.os.ms-windows.misc",
+      "entropy": 1.4935,
+      "top_clusters": {
+        "cluster_9": 0.3907,
+        "cluster_8": 0.2189
+      },
+      "text_snippet": "Is there a hot-key for the Windows 3.1 screen saver utility? If not, is there an easy way to create one? The reason that I need one is that my dad's company is anal retentive about leaving a computer while the information can be accessed so the employees are not allowed to walk away from the compute"
+    },
+    {
+      "doc_id": "doc_7942",
+      "category": "talk.religion.misc",
+      "entropy": 1.4899,
+      "top_clusters": {
+        "cluster_7": 0.3539,
+        "cluster_4": 0.2634
+      },
+      "text_snippet": ": : So what is Kibology? Chopped liver? : Kibo Himself summed it up by saying \"Kibology is not just a religion, it is : also a candy mint ... and a floor wax.\" I personally think that it is more : like Spam Clear. : :"
+    },
+    {
+      "doc_id": "doc_8558",
+      "category": "comp.graphics",
+      "entropy": 1.4548,
+      "top_clusters": {
+        "cluster_9": 0.4073,
+        "cluster_6": 0.2167
+      },
+      "text_snippet": "I would like to know if anyone has had any luck using the upper 128 ASCII characters on a Sun station. I am trying to convert a fortran program to run on a Sun. When we write character buffers to the Sun which contain char(218) or char(196) or char(197) etc. We get characters on the screen but they "
+    },
+    {
+      "doc_id": "doc_5077",
+      "category": "sci.crypt",
+      "entropy": 1.4145,
+      "top_clusters": {
+        "cluster_10": 0.3721,
+        "cluster_8": 0.3139
+      },
+      "text_snippet": "[..stuff deleted] I can buy a DES keysearch machine off the shelf now for approx $500K, but it is not sold by that name. Go buy a circuit emulation machine (eg. Quickturn) containing a bunch of FPGAs, (say 500 to 1000 3090's), and program each to be a DES search engine. Lets say 500 chips, running a"
+    },
+    {
+      "doc_id": "doc_7164",
+      "category": "sci.electronics",
+      "entropy": 1.4138,
+      "top_clusters": {
+        "cluster_9": 0.3435,
+        "cluster_1": 0.2658
+      },
+      "text_snippet": "A 1 of 4 decoder need not be the same as a 1 to 4 demultiplexer, although many commercial SSI implementations allow you to use one as such. Strictly, a 1 of 4 decoder need only take two lines in and make one output change state, according to the inputs. A demux, on the other hand, uses two control i"
+    },
+    {
+      "doc_id": "doc_1048",
+      "category": "comp.os.ms-windows.misc",
+      "entropy": 1.4002,
+      "top_clusters": {
+        "cluster_19": 0.3594,
+        "cluster_6": 0.3052
+      },
+      "text_snippet": "For Logitech rodents use the lmouse driver that comes with windows.... also you need to be using a video driver that supports use of the mouse, both the VGA and SUPERVGA that come with Windows 3.1 will support it. both of these are 16 color drivers, if you're lucky the manufacturer of your video car"
+    },
+    {
+      "doc_id": "doc_50",
+      "category": "rec.autos",
+      "entropy": 1.3926,
+      "top_clusters": {
+        "cluster_3": 0.3888,
+        "cluster_9": 0.2305
+      },
+      "text_snippet": "Don't worry about this -- they'll drop you like a hot potato after you do make a claim. They'll just make filing the claim a pain, but it will end when they leave you in the lurch. More than that. GEICO funded the company that developed LIDAR. When locals showed a reluctance to BUY the units, GEICO "
+    },
+    {
+      "doc_id": "doc_8622",
+      "category": "rec.autos",
+      "entropy": 1.3915,
+      "top_clusters": {
+        "cluster_3": 0.425,
+        "cluster_8": 0.25
+      },
+      "text_snippet": "While not exactly a service incident, I had a similar experience recently when I bought a new truck. I had picked out the vehicle I wanted and after a little haggling we agreed on a price. I wrote them a check for the down payment plus tax and license and told them I'd be back that evening to pick u"
+    }
+  ]
+}
