@@ -1,0 +1,14 @@
+services:
+  semantic-search:
+    build: .
+    ports:
+      - "8000:8000"      # host:container — access via localhost:8000
+    environment:
+      - PYTHONUNBUFFERED=1    # ensures logs appear in real time
+    restart: unless-stopped   # auto-restart if the container crashes
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s

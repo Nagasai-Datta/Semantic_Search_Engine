@@ -6,6 +6,9 @@ data/cluster_centers.npy
 data/pca_model.joblib
 data/chroma_db/
 
+# Docker — Dockerfile and docker-compose.yml ARE committed
+# The data/ files above must exist locally before running docker build
+
 # Committed intentionally
 !data/samples/
 !data/samples/*.csv
